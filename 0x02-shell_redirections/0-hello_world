@@ -1,1 +1,1 @@
-cat file.txt
+printf "Hello, World\n"
